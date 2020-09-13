@@ -1,0 +1,3 @@
+<?php
+
+namespace Wilerfoz\Solid;

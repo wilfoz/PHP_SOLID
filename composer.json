@@ -1,0 +1,18 @@
+{
+    "name": "wilerson/solid",
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wilerfoz\\Solid\\":"src"
+        }
+    },
+    "require": {},
+    "authors": [
+        {
+            "name": "alanisFoz",
+            "email": "alanis.foz.pr@gmail.com"
+        }
+    ]
+}
